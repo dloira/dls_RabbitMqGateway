@@ -1,4 +1,4 @@
-# RabbitMQ Gateway
+# DotNet observer pattern for gateway RabbitMQ server
 
 Here, you could find an approach to use the Observer pattern for handling the official RabbitMQ client. Up and running basic dispatcher and messages consumer is not a really headache following the official guidelines, squeezing the broker features without code coupled is another.
 
